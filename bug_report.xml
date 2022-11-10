@@ -1,1 +1,8 @@
-
+<?xml version ="1.0"?>
+<bug_report>
+  <ID>1<ID>
+  <TITLE>'Start'button on the main page is not pressed<TITLE>
+  <STEP_TO_REPRODUCE>1.Open_main_page. 2. Clicke the button 3.<STEP_TO_REPRODUCE>
+  <ACTUAL_RESULT>does not open start page<ACTUAL_RESULT>
+  <EXPECTED_RESULT>open start page<EXPECTED_RESULT>
+</bug_repor>
